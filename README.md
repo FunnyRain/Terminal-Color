@@ -1,5 +1,6 @@
 # Terminal-Color
 ### color list for terminal
+![Example](https://i.imgur.com/JdP13x8.png)
 ```bash
 Reset = "\x1b[0m"
 Bright = "\x1b[1m"
